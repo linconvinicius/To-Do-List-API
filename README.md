@@ -33,7 +33,7 @@ cd todolist
 ```
 
 ### Construir o Projeto
-```sh
+```
 mvn clean install
 ```
 
